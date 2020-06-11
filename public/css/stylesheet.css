@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+
+ul{
+    list-style-type:none;
+    }
+
+.background{
+    background-color: powderblue;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+.login_registrer{
+    margin-top: 15px;
+    
+}
+
+.background_profile{
+    background-color: powderblue;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+
+
+
+
